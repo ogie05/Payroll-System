@@ -1,0 +1,599 @@
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.xml
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form3.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\system.accdb
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\bin\Debug\system.accdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form3.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\bin\Debug\system.accdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form3.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\system.accdb
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\system.accdb
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\system.accdb
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\try\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\admin\Desktop\Payroll\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\oggy\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.LoadingScreen.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.LoadingScreen.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\New folder\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Dashboard.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Dashboard.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.LoadingScreen.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\november 6\Oggy\november 6\November 3\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Dashboard.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.LoadingScreen.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\admin\Desktop\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Dashboard.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.LoadingScreen.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Kenneth\Thesis\payroll\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Help.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Dashboard.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Help.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.LoadingScreen.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\November 8\oggy\November 7\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Dashboard.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Help.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.LoadingScreen.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\admin\Desktop\New folder\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Dashboard.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Help.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.LoadingScreen.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 8\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Dashboard.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Help.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.LoadingScreen.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.graph.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\ogiee\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Dashboard.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.graph.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Help.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.LoadingScreen.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Dashboard.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.graph.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Help.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.LoadingScreen.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\bin\Debug\System.Buffers.dll
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\bin\Debug\System.Memory.dll
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\System\System\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.verification_name.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\bin\Debug\System.Buffers.dll
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\bin\Debug\System.Memory.dll
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Dashboard.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.graph.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Help.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.LoadingScreen.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.verification_name.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.printmasterlist.resources
+C:\Users\kiyoo\Desktop\November 10\PayrollSystem\obj\x86\Debug\PayrollSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\bin\Debug\System.Buffers.dll
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\bin\Debug\System.Memory.dll
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.createNewUserPassword.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Dashboard.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.forgotpassword.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.graph.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Help.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.LoadingScreen.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.printtab.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.printmasterlist.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.verification_name.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.salarymanage.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.monthoption.resources
+C:\Users\Sanchez\Desktop\1st sem\SYSTEM COPY(IMPORTANT!)\December8\December 8\PayrollSystem\obj\x86\Debug\PayrollSystem.monthrange.resources
