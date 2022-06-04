@@ -2,7 +2,7 @@
 Payroll System for Balintawak Diesel Parts Corporation
 
 ## ABOUT THIS PROJECT 
-I created this Payroll System in Visual Basic using Visual Studio. This system had almost all of the Payroll System that needed, It has a database in mysql that you can create , edit or update your employee. Also it has print tool that can print the payslip and masterlist of each cut off on crstal report.
+I created this Payroll System in Visual Basic using Visual Studio. This system had almost all of the Payroll System that needed, It has a database in mysql that you can create , edit or update your employee. Also it has print tool that can print the payslip and masterlist of each cut off on crystal report.
 
 ### BUILT WITH 
 * [MICROSOFT VISUAL STUDIO]
